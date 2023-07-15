@@ -1,7 +1,5 @@
-# Top-5-Medication
+# Practice
 
-This blog will list the top 5 medications that Americans take most frequently.
+This is just a simple website for me to practice my HTML abilities, with a focus on semantic elements and some CSS.
 
-This article will explain which medications are those, what they do to our bodies, and why they are well-known.
-
-ENJOY IT!
+Future updates will include more content.
