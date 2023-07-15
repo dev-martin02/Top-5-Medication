@@ -2,10 +2,23 @@ body {
   margin: 0;
   padding: 0;
 }
-/* Head */
-header {
-  border: 1px red solid;
+/* Tools */
+.border {
+  border: 1px red dotted;
 }
+a {
+  text-decoration: none;
+  color: black;
+}
+.border-top {
+  border-top: 1px black solid;
+}
+.border-bottom {
+  border-bottom: 0.1px black solid;
+}
+/* Tools ends */
+/* Head */
+
 nav {
   border: 1px red solid;
   font-size: 80%;
@@ -28,3 +41,18 @@ li:hover {
   border-bottom: 1px black solid;
 }
 /* Head Ends */
+
+/* Main */
+section {
+  padding: 1%;
+}
+/* Main ends */
+
+/* Footer */
+#original {
+  color: blue;
+}
+#original:hover {
+  text-decoration: underline;
+}
+/* Footer ends */
